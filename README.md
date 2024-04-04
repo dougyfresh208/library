@@ -17,16 +17,6 @@ This is a deployed web application.
 To try out the Search engine, visit the website  [Book Search](https://book-search-eqes.onrender.com "Book Search")  
 You can also see the code repository on   [GitHub](https://github.com/stever001/books "My Repo")
 
-Here is a screenshot of the application:  
-
-![Screenshot](./screenshot.png "Screenshot")
-
-
-## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-This project is licensed under the MIT license.
-
 
 ## Questions
-For questions, contact steve17rouse@gmail.com. Visit [GitHub](https://github.com/stever001).
+For questions, contact dougrouseltw@gmail.com. Visit [GitHub](https://github.com/dougyfresh208).
